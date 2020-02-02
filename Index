@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Educação a Distância</title>
+
+	<link rel="stylesheet" media="screen" href="style.css?v=8may2013">
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.csszengarden.com/zengarden.xml">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Dave Shea">
+	<meta name="description" content="A demonstration of what can be accomplished visually through CSS-based design.">
+	<meta name="robots" content="all">
+
+
+	</head>
+
+<body id="main_body">
+<div class="page-wrapper">
+
+	<section class="intro" id="id-intro">
+		<header role="banner">
+			<h1>Educação a Distância - EAD</h1>
+			<h2><abbr title="Cascading Style Sheets">EAD</abbr> Conhecimento para todos</h2>
+		</header>
+
+		<div class="summary" id="id-summary" role="article">
+			<p>Como a EAD está democratizando o acesso ao conhecimento.</p>
+		</div>
+		<div class="preamble" id="id-preamble" role="article">			
+			<p>1000% de crescimento. Na última década esse número representa exatamente o aumento do número de alunos EAD no país. Em 2005 haviam apenas cerca de 100 mil estudantes nessa modalidade de ensino. Hoje, o número ultrapassa a marca de 1 milhão, somente os alunos de ensino superior. Contando cursos de educação técnica e cursos livres, esse número é ainda mais impressionante.</p>
+			<p>O ensino a distância, e mais especificamente o aprendizado on-line, é promovido como um aprendizado que pode
+		seja acessado de qualquer lugar, a qualquer momento, por qualquer pessoa. O ensino a distância também é apresentado como sendo
+		uma opção econômica para Instituições de Ensino Públicas, diminuindo os gastos governamentais e facilitando o acesso. Diversas empresas e organizações também estão reconhecendo as vantagens de oferecer cursos a distância.</p>
+			<p> A educação inclusiva é uma oportunidade para quem vive em reclusão e em condições sociais e econômicas desfavorecidas; o ensino a distância pode preencher essas lacunas</p>
+		</div>
+	</section>
+
+	<div class="main supporting" id="id-supporting" role="main">
+		<div class="explanation" id="id-explanation" role="article">
+			<h3>EAD e Deficientes Físicos</h3>
+			<p>A dificuldade de acesso a Universidade é um dos principais fatores que limita o acesso dos deficientes ao Ensino Superior, já que muitas universidades não possuem acessibilidade ou o próprio cidadão não possui meios de locomoção até a instituição.</p>
+			<p>O ensino online pode ser um grande aliado para o deficiente que quer entrar no mercado ou que busca se especializar. Ele consegue estudar na sua residência, e consequentemente, permite ao cidadão ir em busca de novos conhecimentos.</p>
+		</div>
+
+		<div class="participation" id="id-participation" role="article">
+			<h3>Inclusão Social</h3>
+			<p>Um dos papéis da EAD é ampliar a acessibilidade do ensino superior. Mesmo se o estudante não tiver acesso à internet em casa, ele pode utilizar o polo como alternativa.</p>
+			<p>Na modalidade a distância, o aluno estuda em casa e realiza provas, atividades laboratoriais e outros encontros presenciais em uma unidade da insitituição de ensino. O Brasil tem cerca de 15 mil polos de EAD públicos e privados. Eles atendem 1,6 milhão de alunos. De acordo com um estudo de 2018, produzido pela Associação Brasileira de Mantenedoras de Ensino Superior (Abmes), esse público é predominantemente mais velho: 38% dos alunos têm de 31 a 40 anos e 29% têm acima de 40. A maioria trabalha (82%).</p>
+			
+		</div>
+
+		<div class="challenge" id="id-challenge" role="article">
+			<h3>Desafios</h3>
+			<p>Para que os estudos sejam realmente produtivos é necessário que haja dedicação,força de vontade e principalmente autodisciplina para realizar as tarefas, para que todo a aprendizagem ocorra de forma concreta e eficiente. Organização é a palavra-chave.</p>
+		</div>
+
+		<div class="corporativo" id="id-corporativo" role="article">
+			<h3>Educação Corporativa</h3>
+			<p>A educação corporativa é essencial para o sucesso de empresas e para o progresso na carreira. Investir no desenvolvimento de colaboradores é uma excelente forma de incentivar inovação e melhoria em processos internos. Além disso, se você investe em seu funcionário, ele fica mais motivado e engajado com a empresa, além de, claro, manter sua equipe sempre bem treinada e produtiva.
+			<p> No Brasil, hoje, a forma mais comum de treinamento e desenvolvimento corporativo é por meio de cursos para os funcionários. Se você montar um treinamento por meio de vídeos online, pode gravar as videoaulas e hospedá-las em uma plataforma profissional que proteja seus vídeos para que somente as pessoas certas tenham autorização de assisti-los. Com uma estratégia de treinamento online eficiente, ele pode ser utilizado por um longo período de tempo.</p>
+		</div>
+
+		<footer>
+			<a href="http://validator.w3.org/check/referer" title="Clique aqui e seja feliz" class="validate-html">Inútil1</a>
+			
+		</footer>
+
+	</div>
+
+
+	<aside class="sidebar" role="complementary">
+		<div class="wrapper">
+
+			<div class="menu" id="id-menu">
+				<h3 class="menu">Menu</h3>
+				<nav role="navigation">
+					<ul>
+					<li>
+						<a href="#id-explanation" title="EAD e Deficientes Físicos" >EAD e Deficientes Físicos</a>
+					</li>					
+					<li>
+						<a href="#id-participation" title="Inclusão Social" >Inclusão Social </a>
+					</li>
+					<li>
+						<a href="#id-challenge" title="Desafios" >Desafios</a>
+					</li>
+					<li>
+						<a href="#id-corporativo" title="Educação Corporativa" >Educação Corporativa </a>
+					</li>
+					</ul>
+				</nav>
+			</div>
+
+			<div class="saiba-mais" id="id-saiba-mais">
+				<h3 class="saiba-mais">Saiba mais em:</h3>
+				<nav role="navigation">
+					<ul>
+					<li>
+						<a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia#Hist%C3%B3ria/" target="_blank" >História do EAD</a>
+					</li>					
+					<li>
+						<a href="https://pt.wikipedia.org/wiki/E-learning/" target="_blank" >e-Learning</a>
+					</li>
+					</ul>
+				</nav>
+			</div>
+
+			<div class="escolas" id="id-escolas">
+				<h3 class="escolas">Aprenda on-line:</h3>
+				<nav role="navigation">
+					<ul>
+						<li class="escolas">
+							<a href="https://www.udemy.com/" target="_blank" >Udemy</a>
+						</li>
+						<li class="escolas">
+							<a href="https://pt.khanacademy.org/" target="_blank" >Khan Academy</a> 
+						</li>
+					</ul>
+				</nav>
+			</div>
+
+			
+		</aside>
+</div>
+
+
+<div class="extra1" role="presentation"></div><div class="extra2" role="presentation"></div><div class="extra3" role="presentation"></div>
+<div class="extra4" role="presentation"></div><div class="extra5" role="presentation"></div><div class="extra6" role="presentation"></div>
+
+</body>
+</html>
